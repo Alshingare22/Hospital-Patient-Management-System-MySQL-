@@ -1,7 +1,7 @@
 **Hospital Patient Management System (MySQL)**
 
 Project Creator: Anil Shingare
-Contact: Alshingare22@gmail.com
+Gmail: Alshingare22@gmail.com
 
 📁 Project Description
 
